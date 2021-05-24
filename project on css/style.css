@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 7vh;
+    background: yellow;
+    color: blue;
+    
+}
+nav{
+    display: flex;
+    
+}
+
+.search{
+   display: flex;
+   align-items: center;
+    justify-content: center;
+   
+}
+.container{
+    min-height: 86vh
+}
+    
+footer{
+    background: black;
+    color: white;
+    height: 7vh;
+    font-family: 'Pattaya', sans-serif
+}
